@@ -21,13 +21,12 @@
 - Boundary values
 - Authentication tests
 - Validation rules
-- Error handling
 
 ### 3. Browser Testing
 - Chrome DevTools
-- Network
-- Console
-- Responsive Mode
+- Network Request Analysis
+- Frontend Error Investigation
+- Responsive Testing
 
 ### 4. Database Validation (SQL)
 - Проверка отсутствия дубликатов пользователей
